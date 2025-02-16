@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl when handling arguments within a procedure defined using the 'proc' command.  The issue arises from an improper use of the 'args' variable. The 'bug.tcl' file contains the erroneous code, while 'bugSolution.tcl' provides the correct implementation.
